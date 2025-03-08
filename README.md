@@ -1,4 +1,4 @@
-# 🧠 AI Homework - FashionMNIST Feedforward Neural Network
+# 🧠 AI - FashionMNIST Feedforward Neural Network
 
 ## 📌 Overview
 This repository contains an implementation of a **Feedforward Neural Network (FNN)** trained on the **FashionMNIST** dataset. The project explores the impact of different **activation functions** and **optimizers** on model performance and further improves training using **learning rate scheduling and additional epochs**.
